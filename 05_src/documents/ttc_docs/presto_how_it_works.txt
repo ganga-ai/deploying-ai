@@ -1,0 +1,1 @@
+PRESTO is the primary fare payment system used on the TTC. Riders tap their card or mobile wallet when entering a station or boarding a vehicle. The system automatically deducts the correct fare and supports transfers within a set time window. PRESTO also offers features such as automatic reloads, fare capping, and online account management.
